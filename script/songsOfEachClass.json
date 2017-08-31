@@ -1,0 +1,650 @@
+{
+  "public_tuijian_autumn": [{
+    "artist": "周杰伦",
+    "duration": 275,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/542ec889599091581056ec2f3f9ec696/274056807/274056807.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/88653998/88653998.jpg@s_0,w_300",
+    "sid": 1430563,
+    "title": "枫",
+    "url": "./songs/枫.mp3"
+  },{
+    "artist": "刘若英",
+    "duration": 272,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/239708505/239708505.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/e47841aec86f1590247b55f428bc457c/539904766/539904766.jpg@s_0,w_300",
+    "sid": 903754,
+    "title": "一辈子孤单",
+    "url": "./songs/一辈子的孤单.mp3"
+  }, {
+    "artist": "万芳",
+    "duration": 314,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/27855725/27855725.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/14ebe45a9a63a42b45891c774ce6d2de/539904899/539904899.jpg@s_0,w_300",
+    "sid": 231201,
+    "title": "相爱的运气",
+    "url": "./songs/相爱的运气.mp3"
+  }, {
+    "artist": "梁静茹",
+    "duration": 301,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/13800955/13800955.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/e111e6741b5b2e7de9379548b0648c02/540055809/540055809.jpg@s_0,w_300",
+    "sid": 2070918,
+    "title": "丝路",
+    "url": "./songs/丝路.mp3"
+  }, {
+    "artist": "范玮琪",
+    "duration": 277,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/14730661/14730661.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/241216983/241216983.jpg@s_0,w_300",
+    "sid": 923756,
+    "title": "启程",
+    "url": "./songs/启程.mp3"
+  }, {
+    "artist": "宋冬野",
+    "duration": 251,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/241648644/241648644.lrc",
+    "picture": "http://musicdata.baidu.com/data2/music/8FC5329B4D2913225E2318EB48BB9318/254346737/254346737.jpg@s_0,w_300",
+    "sid": 44805341,
+    "title": "安和桥",
+    "url": "./songs/安和桥.mp3" 
+  }, {
+    "artist": "李健",
+    "duration": 229,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/14874257/14874257.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/b27435297027406c26b3b74d9e805263/263504399/263504399.jpg@s_0,w_300",
+    "sid": 1556356,
+    "title": "异乡人",
+    "url": "./songs/异乡人.mp3"    
+  }, {
+    "artist": "万芳",
+    "duration": 274,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/691664/691664.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/0bf42907c69bf528a317a4a4b980be06/262030267/262030267.jpg@s_0,w_300",
+    "sid": 691663,
+    "title": "我们不是永远都那么勇敢",
+    "url": "./songs/我们不是永远都那么勇敢.mp3"
+  }, {
+    "artist": "丁可",
+    "duration": 151,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/103488991/103488991.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/9293b60271912a09aa3dcc2ae6931c47/262016674/262016674.jpg@s_0,w_300",
+    "sid": 45890559,
+    "title": "If",
+    "url": "./songs/If.mp3"
+  }, {
+    "artist": "蔡健雅",
+    "duration": 252,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/13957725/13957725.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/40086909/40086909.jpg@s_0,w_300",
+    "sid": 341541,
+    "title": "空白格",
+    "url": "./songs/空白格.mp3" 
+  }],
+  "public_tuijian_spring": [{
+    "artist": "韩雪",
+    "duration": 272,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/10549715/10549715.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/89786086/89786086.jpg@s_0,w_300",
+    "sid": 7278793,
+    "title": "狂想的旅程",
+    "url": "./songs/狂想的旅程.mp3"
+  },{
+    "artist": "冯曦妤",
+    "duration": 107,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/246653104/246653104.lrc",
+    "picture": "http://musicdata.baidu.com/data2/music/A9E9A9D6253519F8E7CDD43A137D1DC4/252450136/252450136.jpg@s_0,w_300",
+    "sid": 7280636,
+    "title": "Shining Friends",
+    "url": "./songs/Shining Friends.mp3"
+  }, {
+    "artist": "Alan Jackson",
+    "duration": 158,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/9139440/9139440.lrc",
+    "picture": "http://musicdata.baidu.com/data2/music/D3C30382131B1EB700F1B449A7D0DD6F/253088350/253088350.jpg@s_0,w_300",
+    "sid": 9133988,
+    "title": "Little Bitty",
+    "url": "./songs/Little Bitty.mp3"
+  }, {
+    "artist": "Train",
+    "duration": 217,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/14890560/14890560.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/88465059/88465059.jpg@s_0,w_300",
+    "sid": 538257,
+    "title": "Hey, Soul Sister",
+    "url": "./songs/Hey, Soul Sister.mp3"
+  }, {
+    "artist": "周杰伦",
+    "duration": 222,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/13826954/13826954.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/88389085/88389085.jpg@s_0,w_300",
+    "sid": 270910,
+    "title": "阳光宅男",
+    "url": "./songs/阳光宅男.mp3"   
+  }, {
+    "artist": "胡夏",
+    "duration": 231,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/240463236/240463236.lrc",
+    "picture": "http://musicdata.baidu.com/data2/music/85D67A9DE4FFCB071553B32496765D5A/252936303/252936303.jpg@s_0,w_300",
+    "sid": 7282466,
+    "title": "弹弹琴恋恋爱",
+    "url": "./songs/弹弹琴恋恋爱.mp3" 
+  }, {
+    "artist": "李健",
+    "duration": 229,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/14874257/14874257.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/b27435297027406c26b3b74d9e805263/263504399/263504399.jpg@s_0,w_300",
+    "sid": 1556356,
+    "title": "异乡人",
+    "url": "./songs/异乡人.mp3"    
+  }, {
+    "artist": "筠子",
+    "duration": 301,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/239820138/239820138.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/bbe545b10e86ffcc9b09a70200d86589/261949434/261949434.jpg@s_0,w_300",
+    "sid": 1094915,
+    "title": "春分",
+    "url": "./songs/春分.mp3"
+  }, {
+    "artist": "范玮琪",
+    "duration": 263,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/14962124/14962124.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/a0da965269a3ae6eaedc0598e6a9c926/540388266/540388266.jpg@s_0,w_300",
+    "sid": 2488586,
+    "title": "No Matter",
+    "url": "./songs/No Matter.mp3"
+  }, {
+    "artist": "郁可唯",
+    "duration": 323,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/48672250/48672250.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/88348603/88348603.jpg@s_0,w_300",
+    "sid": 537254,
+    "title": "蓝短裤儿童版",
+    "url": "./songs/蓝短裤儿童版.mp3" 
+  }],
+  "public_tuijian_winter": [{
+    "artist": "韩雪",
+    "duration": 272,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/10549715/10549715.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/89786086/89786086.jpg@s_0,w_300",
+    "sid": 7278793,
+    "title": "狂想的旅程",
+    "url": "./songs/狂想的旅程.mp3"
+  },{
+    "artist": "冯曦妤",
+    "duration": 107,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/246653104/246653104.lrc",
+    "picture": "http://musicdata.baidu.com/data2/music/A9E9A9D6253519F8E7CDD43A137D1DC4/252450136/252450136.jpg@s_0,w_300",
+    "sid": 7280636,
+    "title": "Shining Friends",
+    "url": "./songs/Shining Friends.mp3"
+  }, {
+    "artist": "Alan Jackson",
+    "duration": 158,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/9139440/9139440.lrc",
+    "picture": "http://musicdata.baidu.com/data2/music/D3C30382131B1EB700F1B449A7D0DD6F/253088350/253088350.jpg@s_0,w_300",
+    "sid": 9133988,
+    "title": "Little Bitty",
+    "url": "./songs/Little Bitty.mp3"
+  }, {
+    "artist": "Train",
+    "duration": 217,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/14890560/14890560.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/88465059/88465059.jpg@s_0,w_300",
+    "sid": 538257,
+    "title": "Hey, Soul Sister",
+    "url": "./songs/Hey, Soul Sister.mp3"
+  }, {
+    "artist": "周杰伦",
+    "duration": 222,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/13826954/13826954.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/88389085/88389085.jpg@s_0,w_300",
+    "sid": 270910,
+    "title": "阳光宅男",
+    "url": "./songs/阳光宅男.mp3"   
+  }, {
+    "artist": "胡夏",
+    "duration": 231,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/240463236/240463236.lrc",
+    "picture": "http://musicdata.baidu.com/data2/music/85D67A9DE4FFCB071553B32496765D5A/252936303/252936303.jpg@s_0,w_300",
+    "sid": 7282466,
+    "title": "弹弹琴恋恋爱",
+    "url": "./songs/弹弹琴恋恋爱.mp3" 
+  }, {
+    "artist": "李健",
+    "duration": 229,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/14874257/14874257.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/b27435297027406c26b3b74d9e805263/263504399/263504399.jpg@s_0,w_300",
+    "sid": 1556356,
+    "title": "异乡人",
+    "url": "./songs/异乡人.mp3"    
+  }, {
+    "artist": "筠子",
+    "duration": 301,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/239820138/239820138.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/bbe545b10e86ffcc9b09a70200d86589/261949434/261949434.jpg@s_0,w_300",
+    "sid": 1094915,
+    "title": "春分",
+    "url": "./songs/春分.mp3"
+  }, {
+    "artist": "范玮琪",
+    "duration": 263,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/14962124/14962124.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/a0da965269a3ae6eaedc0598e6a9c926/540388266/540388266.jpg@s_0,w_300",
+    "sid": 2488586,
+    "title": "No Matter",
+    "url": "./songs/No Matter.mp3"
+  }, {
+    "artist": "郁可唯",
+    "duration": 323,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/48672250/48672250.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/88348603/88348603.jpg@s_0,w_300",
+    "sid": 537254,
+    "title": "蓝短裤儿童版",
+    "url": "./songs/蓝短裤儿童版.mp3" 
+  }],
+  "public_tuijian_rege": [{
+    "artist": "韩雪",
+    "duration": 272,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/10549715/10549715.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/89786086/89786086.jpg@s_0,w_300",
+    "sid": 7278793,
+    "title": "狂想的旅程",
+    "url": "./songs/狂想的旅程.mp3"
+  },{
+    "artist": "冯曦妤",
+    "duration": 107,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/246653104/246653104.lrc",
+    "picture": "http://musicdata.baidu.com/data2/music/A9E9A9D6253519F8E7CDD43A137D1DC4/252450136/252450136.jpg@s_0,w_300",
+    "sid": 7280636,
+    "title": "Shining Friends",
+    "url": "./songs/Shining Friends.mp3"
+  }, {
+    "artist": "Alan Jackson",
+    "duration": 158,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/9139440/9139440.lrc",
+    "picture": "http://musicdata.baidu.com/data2/music/D3C30382131B1EB700F1B449A7D0DD6F/253088350/253088350.jpg@s_0,w_300",
+    "sid": 9133988,
+    "title": "Little Bitty",
+    "url": "./songs/Little Bitty.mp3"
+  }, {
+    "artist": "Train",
+    "duration": 217,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/14890560/14890560.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/88465059/88465059.jpg@s_0,w_300",
+    "sid": 538257,
+    "title": "Hey, Soul Sister",
+    "url": "./songs/Hey, Soul Sister.mp3"
+  }, {
+    "artist": "周杰伦",
+    "duration": 222,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/13826954/13826954.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/88389085/88389085.jpg@s_0,w_300",
+    "sid": 270910,
+    "title": "阳光宅男",
+    "url": "./songs/阳光宅男.mp3"   
+  }, {
+    "artist": "胡夏",
+    "duration": 231,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/240463236/240463236.lrc",
+    "picture": "http://musicdata.baidu.com/data2/music/85D67A9DE4FFCB071553B32496765D5A/252936303/252936303.jpg@s_0,w_300",
+    "sid": 7282466,
+    "title": "弹弹琴恋恋爱",
+    "url": "./songs/弹弹琴恋恋爱.mp3" 
+  }, {
+    "artist": "李健",
+    "duration": 229,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/14874257/14874257.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/b27435297027406c26b3b74d9e805263/263504399/263504399.jpg@s_0,w_300",
+    "sid": 1556356,
+    "title": "异乡人",
+    "url": "./songs/异乡人.mp3"    
+  }, {
+    "artist": "筠子",
+    "duration": 301,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/239820138/239820138.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/bbe545b10e86ffcc9b09a70200d86589/261949434/261949434.jpg@s_0,w_300",
+    "sid": 1094915,
+    "title": "春分",
+    "url": "./songs/春分.mp3"
+  }, {
+    "artist": "范玮琪",
+    "duration": 263,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/14962124/14962124.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/a0da965269a3ae6eaedc0598e6a9c926/540388266/540388266.jpg@s_0,w_300",
+    "sid": 2488586,
+    "title": "No Matter",
+    "url": "./songs/No Matter.mp3"
+  }, {
+    "artist": "郁可唯",
+    "duration": 323,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/48672250/48672250.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/88348603/88348603.jpg@s_0,w_300",
+    "sid": 537254,
+    "title": "蓝短裤儿童版",
+    "url": "./songs/蓝短裤儿童版.mp3" 
+  }],
+  "public_tuijian_ktv": [{
+    "artist": "韩雪",
+    "duration": 272,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/10549715/10549715.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/89786086/89786086.jpg@s_0,w_300",
+    "sid": 7278793,
+    "title": "狂想的旅程",
+    "url": "./songs/狂想的旅程.mp3"
+  },{
+    "artist": "冯曦妤",
+    "duration": 107,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/246653104/246653104.lrc",
+    "picture": "http://musicdata.baidu.com/data2/music/A9E9A9D6253519F8E7CDD43A137D1DC4/252450136/252450136.jpg@s_0,w_300",
+    "sid": 7280636,
+    "title": "Shining Friends",
+    "url": "./songs/Shining Friends.mp3"
+  }, {
+    "artist": "Alan Jackson",
+    "duration": 158,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/9139440/9139440.lrc",
+    "picture": "http://musicdata.baidu.com/data2/music/D3C30382131B1EB700F1B449A7D0DD6F/253088350/253088350.jpg@s_0,w_300",
+    "sid": 9133988,
+    "title": "Little Bitty",
+    "url": "./songs/Little Bitty.mp3"
+  }, {
+    "artist": "Train",
+    "duration": 217,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/14890560/14890560.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/88465059/88465059.jpg@s_0,w_300",
+    "sid": 538257,
+    "title": "Hey, Soul Sister",
+    "url": "./songs/Hey, Soul Sister.mp3"
+  }, {
+    "artist": "周杰伦",
+    "duration": 222,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/13826954/13826954.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/88389085/88389085.jpg@s_0,w_300",
+    "sid": 270910,
+    "title": "阳光宅男",
+    "url": "./songs/阳光宅男.mp3"   
+  }, {
+    "artist": "胡夏",
+    "duration": 231,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/240463236/240463236.lrc",
+    "picture": "http://musicdata.baidu.com/data2/music/85D67A9DE4FFCB071553B32496765D5A/252936303/252936303.jpg@s_0,w_300",
+    "sid": 7282466,
+    "title": "弹弹琴恋恋爱",
+    "url": "./songs/弹弹琴恋恋爱.mp3" 
+  }, {
+    "artist": "李健",
+    "duration": 229,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/14874257/14874257.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/b27435297027406c26b3b74d9e805263/263504399/263504399.jpg@s_0,w_300",
+    "sid": 1556356,
+    "title": "异乡人",
+    "url": "./songs/异乡人.mp3"    
+  }, {
+    "artist": "筠子",
+    "duration": 301,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/239820138/239820138.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/bbe545b10e86ffcc9b09a70200d86589/261949434/261949434.jpg@s_0,w_300",
+    "sid": 1094915,
+    "title": "春分",
+    "url": "./songs/春分.mp3"
+  }, {
+    "artist": "范玮琪",
+    "duration": 263,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/14962124/14962124.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/a0da965269a3ae6eaedc0598e6a9c926/540388266/540388266.jpg@s_0,w_300",
+    "sid": 2488586,
+    "title": "No Matter",
+    "url": "./songs/No Matter.mp3"
+  }, {
+    "artist": "郁可唯",
+    "duration": 323,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/48672250/48672250.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/88348603/88348603.jpg@s_0,w_300",
+    "sid": 537254,
+    "title": "蓝短裤儿童版",
+    "url": "./songs/蓝短裤儿童版.mp3" 
+  }],
+  "public_tuijian_billboard": [{
+    "artist": "韩雪",
+    "duration": 272,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/10549715/10549715.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/89786086/89786086.jpg@s_0,w_300",
+    "sid": 7278793,
+    "title": "狂想的旅程",
+    "url": "./songs/狂想的旅程.mp3"
+  },{
+    "artist": "冯曦妤",
+    "duration": 107,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/246653104/246653104.lrc",
+    "picture": "http://musicdata.baidu.com/data2/music/A9E9A9D6253519F8E7CDD43A137D1DC4/252450136/252450136.jpg@s_0,w_300",
+    "sid": 7280636,
+    "title": "Shining Friends",
+    "url": "./songs/Shining Friends.mp3"
+  }, {
+    "artist": "Alan Jackson",
+    "duration": 158,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/9139440/9139440.lrc",
+    "picture": "http://musicdata.baidu.com/data2/music/D3C30382131B1EB700F1B449A7D0DD6F/253088350/253088350.jpg@s_0,w_300",
+    "sid": 9133988,
+    "title": "Little Bitty",
+    "url": "./songs/Little Bitty.mp3"
+  }, {
+    "artist": "Train",
+    "duration": 217,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/14890560/14890560.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/88465059/88465059.jpg@s_0,w_300",
+    "sid": 538257,
+    "title": "Hey, Soul Sister",
+    "url": "./songs/Hey, Soul Sister.mp3"
+  }, {
+    "artist": "周杰伦",
+    "duration": 222,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/13826954/13826954.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/88389085/88389085.jpg@s_0,w_300",
+    "sid": 270910,
+    "title": "阳光宅男",
+    "url": "./songs/阳光宅男.mp3"   
+  }, {
+    "artist": "胡夏",
+    "duration": 231,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/240463236/240463236.lrc",
+    "picture": "http://musicdata.baidu.com/data2/music/85D67A9DE4FFCB071553B32496765D5A/252936303/252936303.jpg@s_0,w_300",
+    "sid": 7282466,
+    "title": "弹弹琴恋恋爱",
+    "url": "./songs/弹弹琴恋恋爱.mp3" 
+  }, {
+    "artist": "李健",
+    "duration": 229,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/14874257/14874257.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/b27435297027406c26b3b74d9e805263/263504399/263504399.jpg@s_0,w_300",
+    "sid": 1556356,
+    "title": "异乡人",
+    "url": "./songs/异乡人.mp3"    
+  }, {
+    "artist": "筠子",
+    "duration": 301,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/239820138/239820138.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/bbe545b10e86ffcc9b09a70200d86589/261949434/261949434.jpg@s_0,w_300",
+    "sid": 1094915,
+    "title": "春分",
+    "url": "./songs/春分.mp3"
+  }, {
+    "artist": "范玮琪",
+    "duration": 263,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/14962124/14962124.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/a0da965269a3ae6eaedc0598e6a9c926/540388266/540388266.jpg@s_0,w_300",
+    "sid": 2488586,
+    "title": "No Matter",
+    "url": "./songs/No Matter.mp3"
+  }, {
+    "artist": "郁可唯",
+    "duration": 323,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/48672250/48672250.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/88348603/88348603.jpg@s_0,w_300",
+    "sid": 537254,
+    "title": "蓝短裤儿童版",
+    "url": "./songs/蓝短裤儿童版.mp3" 
+  }],
+  "public_tuijian_chengmingqu": [{
+    "artist": "韩雪",
+    "duration": 272,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/10549715/10549715.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/89786086/89786086.jpg@s_0,w_300",
+    "sid": 7278793,
+    "title": "狂想的旅程",
+    "url": "./songs/狂想的旅程.mp3"
+  },{
+    "artist": "冯曦妤",
+    "duration": 107,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/246653104/246653104.lrc",
+    "picture": "http://musicdata.baidu.com/data2/music/A9E9A9D6253519F8E7CDD43A137D1DC4/252450136/252450136.jpg@s_0,w_300",
+    "sid": 7280636,
+    "title": "Shining Friends",
+    "url": "./songs/Shining Friends.mp3"
+  }, {
+    "artist": "Alan Jackson",
+    "duration": 158,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/9139440/9139440.lrc",
+    "picture": "http://musicdata.baidu.com/data2/music/D3C30382131B1EB700F1B449A7D0DD6F/253088350/253088350.jpg@s_0,w_300",
+    "sid": 9133988,
+    "title": "Little Bitty",
+    "url": "./songs/Little Bitty.mp3"
+  }, {
+    "artist": "Train",
+    "duration": 217,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/14890560/14890560.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/88465059/88465059.jpg@s_0,w_300",
+    "sid": 538257,
+    "title": "Hey, Soul Sister",
+    "url": "./songs/Hey, Soul Sister.mp3"
+  }, {
+    "artist": "周杰伦",
+    "duration": 222,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/13826954/13826954.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/88389085/88389085.jpg@s_0,w_300",
+    "sid": 270910,
+    "title": "阳光宅男",
+    "url": "./songs/阳光宅男.mp3"   
+  }, {
+    "artist": "胡夏",
+    "duration": 231,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/240463236/240463236.lrc",
+    "picture": "http://musicdata.baidu.com/data2/music/85D67A9DE4FFCB071553B32496765D5A/252936303/252936303.jpg@s_0,w_300",
+    "sid": 7282466,
+    "title": "弹弹琴恋恋爱",
+    "url": "./songs/弹弹琴恋恋爱.mp3" 
+  }, {
+    "artist": "李健",
+    "duration": 229,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/14874257/14874257.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/b27435297027406c26b3b74d9e805263/263504399/263504399.jpg@s_0,w_300",
+    "sid": 1556356,
+    "title": "异乡人",
+    "url": "./songs/异乡人.mp3"    
+  }, {
+    "artist": "筠子",
+    "duration": 301,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/239820138/239820138.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/bbe545b10e86ffcc9b09a70200d86589/261949434/261949434.jpg@s_0,w_300",
+    "sid": 1094915,
+    "title": "春分",
+    "url": "./songs/春分.mp3"
+  }, {
+    "artist": "范玮琪",
+    "duration": 263,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/14962124/14962124.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/a0da965269a3ae6eaedc0598e6a9c926/540388266/540388266.jpg@s_0,w_300",
+    "sid": 2488586,
+    "title": "No Matter",
+    "url": "./songs/No Matter.mp3"
+  }, {
+    "artist": "郁可唯",
+    "duration": 323,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/48672250/48672250.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/88348603/88348603.jpg@s_0,w_300",
+    "sid": 537254,
+    "title": "蓝短裤儿童版",
+    "url": "./songs/蓝短裤儿童版.mp3" 
+  }],
+  "public_tuijian_wangluo": [{
+    "artist": "韩雪",
+    "duration": 272,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/10549715/10549715.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/89786086/89786086.jpg@s_0,w_300",
+    "sid": 7278793,
+    "title": "狂想的旅程",
+    "url": "./songs/狂想的旅程.mp3"
+  },{
+    "artist": "冯曦妤",
+    "duration": 107,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/246653104/246653104.lrc",
+    "picture": "http://musicdata.baidu.com/data2/music/A9E9A9D6253519F8E7CDD43A137D1DC4/252450136/252450136.jpg@s_0,w_300",
+    "sid": 7280636,
+    "title": "Shining Friends",
+    "url": "./songs/Shining Friends.mp3"
+  }, {
+    "artist": "Alan Jackson",
+    "duration": 158,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/9139440/9139440.lrc",
+    "picture": "http://musicdata.baidu.com/data2/music/D3C30382131B1EB700F1B449A7D0DD6F/253088350/253088350.jpg@s_0,w_300",
+    "sid": 9133988,
+    "title": "Little Bitty",
+    "url": "./songs/Little Bitty.mp3"
+  }, {
+    "artist": "Train",
+    "duration": 217,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/14890560/14890560.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/88465059/88465059.jpg@s_0,w_300",
+    "sid": 538257,
+    "title": "Hey, Soul Sister",
+    "url": "./songs/Hey, Soul Sister.mp3"
+  }, {
+    "artist": "周杰伦",
+    "duration": 222,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/13826954/13826954.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/88389085/88389085.jpg@s_0,w_300",
+    "sid": 270910,
+    "title": "阳光宅男",
+    "url": "./songs/阳光宅男.mp3"   
+  }, {
+    "artist": "胡夏",
+    "duration": 231,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/240463236/240463236.lrc",
+    "picture": "http://musicdata.baidu.com/data2/music/85D67A9DE4FFCB071553B32496765D5A/252936303/252936303.jpg@s_0,w_300",
+    "sid": 7282466,
+    "title": "弹弹琴恋恋爱",
+    "url": "./songs/弹弹琴恋恋爱.mp3" 
+  }, {
+    "artist": "李健",
+    "duration": 229,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/14874257/14874257.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/b27435297027406c26b3b74d9e805263/263504399/263504399.jpg@s_0,w_300",
+    "sid": 1556356,
+    "title": "异乡人",
+    "url": "./songs/异乡人.mp3"    
+  }, {
+    "artist": "筠子",
+    "duration": 301,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/239820138/239820138.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/bbe545b10e86ffcc9b09a70200d86589/261949434/261949434.jpg@s_0,w_300",
+    "sid": 1094915,
+    "title": "春分",
+    "url": "./songs/春分.mp3"
+  }, {
+    "artist": "范玮琪",
+    "duration": 263,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/14962124/14962124.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/a0da965269a3ae6eaedc0598e6a9c926/540388266/540388266.jpg@s_0,w_300",
+    "sid": 2488586,
+    "title": "No Matter",
+    "url": "./songs/No Matter.mp3"
+  }, {
+    "artist": "郁可唯",
+    "duration": 323,
+    "lrc": "http://musicdata.baidu.com/data2/lrc/48672250/48672250.lrc",
+    "picture": "http://musicdata.baidu.com/data2/pic/88348603/88348603.jpg@s_0,w_300",
+    "sid": 537254,
+    "title": "蓝短裤儿童版",
+    "url": "./songs/蓝短裤儿童版.mp3" 
+  }]           
+}

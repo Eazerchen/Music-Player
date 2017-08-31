@@ -1,0 +1,29 @@
+{
+  "channels": [
+    {
+      "channel_id": "public_tuijian_spring",
+      "name": "漫步春天"
+    }, {
+      "channel_id": "public_tuijian_autumn",
+      "name": "秋日私语"      
+    }, {
+      "channel_id": "public_tuijian_winter",
+      "name": "温暖冬日"      
+    }, {
+      "channel_id": "public_tuijian_rege",
+      "name": "热歌"      
+    }, {
+      "channel_id": "public_tuijian_ktv",
+      "name": "KTV金曲"      
+    }, {
+      "channel_id": "public_tuijian_billboard",
+      "name": "Billboard"      
+    }, {
+      "channel_id": "public_tuijian_chengmingqu",
+      "name": "成名曲"      
+    }, {
+      "channel_id": "public_tuijian_wangluo",
+      "name": "网络歌曲"      
+    }
+  ]
+}

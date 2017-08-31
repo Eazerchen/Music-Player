@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta name="referrer" content="never">
+    <title>sss</title>
+    
+  </head>
+  <body>
+    <script>
+      var num = 0
+      var sids = [537254]
+      var songInfos = []
+      function getS() {
+        var xhr = new XMLHttpRequest()
+        xhr.onreadystatechange = function() {
+          if(xhr.readyState===4) {
+            if((xhr.status>=200 && xhr.status < 300) || xhr.status == 304) {
+              var songInfoObj = JSON.parse(xhr.responseText)
+              console.log(songInfoObj.song[0].sid)
+              if(songInfoObj.song[0].artist && sids.indexOf(songInfoObj.song[0].sid)!==-1) {
+                console.log(songInfoObj.song[0])
+                songInfos.push(songInfoObj.song[0])
+                num++
+              }
+              if (num<100) {
+                getS()
+              }              
+            }
+          }
+        }
+        xhr.open('get', 'http://api.jirengu.com/fm/getSong.php?channel=public_tuijian_spring', true)
+        xhr.send(null)
+      }
+      getS()
+    </script>
+  </body>
+</html>
